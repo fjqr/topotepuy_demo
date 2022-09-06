@@ -1,0 +1,9 @@
+.backg {
+  background-image: url("../assets/vegetable-patch-g5dc1ff34e_1920.jpg");
+  background-attachment: fixed;
+  background-blend-mode: multiply;
+}
+
+.gap-to-menu {
+  margin-top: 5.5rem;
+}
